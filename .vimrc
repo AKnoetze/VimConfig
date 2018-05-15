@@ -11,6 +11,7 @@ Plugin 'VundleVim/Vundle.vim'
 " VUNDLE PLUGINS:
 " Git support
 Plugin 'tpope/vim-fugitive'
+Plugin 'airblade/vim-gitgutter'
 " Tabline stuff
 Plugin 'bling/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
